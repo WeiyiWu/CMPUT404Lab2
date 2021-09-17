@@ -18,5 +18,5 @@ Question 5: What is returned by recv() from the server after it is done sending 
 
 Question 6: Provide a link to your code on GitHub.
 	https://github.com/WeiyiWu/CMPUT404Lab2/blob/main/multi_proxy_server.py
-	(references: proxy_server.py and multi_echo_server.py)
+	(references: proxy_server.py and multi_echo_server.py provided in lab)
 	
